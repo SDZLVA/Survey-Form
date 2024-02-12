@@ -5,7 +5,7 @@ This is a simple survey form project created for Practice and Improve My Knowled
 ## How to Run
 
 1. Clone this repository to your local machine.
-2. Open `index.html` in a web browser.
+2. Open `Survey Form.html` in a web browser.
 
 ## Dependencies
 
